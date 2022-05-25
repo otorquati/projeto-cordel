@@ -70,12 +70,12 @@ section.imagem > p{
   text-shadow: 1px 1px 0px black;
 }
 section#img001 {
-  background-image: url('../projeto-cordel/imagens/background001.jpg');
+  background-image: url('./imagens/background001.jpg');
   background-position: right center;
 
 }
 section#img002{
-  background-image: url('../projeto-cordel/imagens/background002.jpg');
+  background-image: url('./imagens/background002.jpg');
 
 }
 
